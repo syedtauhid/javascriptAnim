@@ -8,7 +8,7 @@
 > 3 blinks of a company means it was shut down during that year
 > New Companies arrival is shown with a fadein effect
 
-** When the video clip ends a window will shown for Compareing Companies based on years**
+**When the video clip ends a window will shown for Compareing Companies based on years**
 
 > You can select the year from dropdown list
 
